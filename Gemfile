@@ -8,6 +8,8 @@ gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views', '~> 0.0.9'
 
+gem 'stripe'
+gem 'figaro' 
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
